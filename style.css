@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+}
+
+.ice-cream {
+    color: white;
+    font-size: 20px;
+}
